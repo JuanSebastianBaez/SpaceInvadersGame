@@ -44,7 +44,7 @@ Librerías utlizadas:
       Math: Para cálculos matemáticos en el juego.
       PyGame: Para el desarrollo de gráficos y lógica del juego.
 
-      (se debe intalar la libreria Pygame: (pip install Pygame))
+      (se debe instalar la libreria Pygame: (pip install Pygame))
 
 El codigo no posee clases, pues esta todo organizado con funciones y variables globales
 
